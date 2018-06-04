@@ -1,12 +1,12 @@
 import React, {Component} from 'react';
 
-const CardList = () => {
+const Footer = () => {
     return (
         <div>
             <h1>
-                CardList Component</h1>
+                Footer Component</h1>
         </div>
     )
 }
 
-export default CardList;
+export default Footer;
