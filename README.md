@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React-Concentration
 
  - A concentration card game using the http://deckofcardsapi.com
@@ -19,3 +20,7 @@
 
  1. Clone and navigate to directory
  2. Run 'npm run test';
+=======
+# React-ConcentrationCardgame
+Single person card game called Concentration, will make use of the API from http://deckofcardsapi.com/, this is a remodel of previous game built with vanillaJS that I did in the past, but using React framework and unit testing as well.
+>>>>>>> 3a5b2611bed36428787c895a59ccc64cb95e2853
