@@ -13,7 +13,7 @@
         "react-scripts": "1.1.4",
         "styled-components": "^3.3.2"
     },
-    "homepage": "https://wingchhun.github.io/wingchhun/React-ConcentrationCardgame",
+    "homepage": "https://wingchhun.github.io/React-ConcentrationCardgame",
     "scripts": {
         "build-css": "node-sass-chokidar src/ -o src/",
         "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
