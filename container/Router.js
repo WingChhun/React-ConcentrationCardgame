@@ -5,7 +5,7 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Main from "./Main";
 class Router extends Component
 {
-    componentWillMount()
+    componentDidMount()
     {
         document.title = "React Concentration Card Game";
     }
